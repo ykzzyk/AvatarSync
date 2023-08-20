@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AvatarSync",
+    "slug": "AvatarSync",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AvatarSync"
+}
